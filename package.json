@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@tabler/icons-react": "^3.31.0",
+    "@tailwindcss/vite": "^4.0.9",
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.477.0",
+    "react": "^19.0.0",
+    "react-animated-text": "^0.1.4",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.2",
+    "react-icons": "^5.5.0",
+    "react-magic-text": "^0.2.0",
+    "react-router-dom": "^7.3.0",
+    "react-type-animation": "^3.2.0"
+  }
+}

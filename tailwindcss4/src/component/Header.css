@@ -1,0 +1,10 @@
+.scroll-down nav {
+    transform: translate3d(0, -100%, 0);
+    animation: floatColors 12s ease-in-out infinite;
+    transition: transform 1s ease-out; 
+  }
+  
+  .scroll-up nav {
+    border-bottom: 1px solid #ffffff33;
+    transition: all 0.9s ease-out;
+  }
