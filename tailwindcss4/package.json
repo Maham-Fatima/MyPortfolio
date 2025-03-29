@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "@tabler/icons-react": "^3.31.0",
     "@tailwindcss/vite": "^4.0.9",
+    "@vercel/speed-insights": "^1.2.0",
     "framer-motion": "^12.4.7",
     "lucide-react": "^0.477.0",
     "react": "^19.0.0",
